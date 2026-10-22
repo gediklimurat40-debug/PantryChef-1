@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PantryChef" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/terracotta</item>
+        <item name="colorPrimaryDark">@color/terracotta_dark</item>
+        <item name="colorAccent">@color/terracotta</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorControlActivated">@color/terracotta</item>
+        <item name="android:colorBackground">@color/page_bg</item>
+        <item name="android:windowBackground">@color/page_bg</item>
+        <item name="android:statusBarColor">@color/cream</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/cream</item>
+        <item name="android:textColor">@color/charcoal</item>
+        <item name="android:textColorPrimary">@color/charcoal</item>
+        <item name="android:textColorHighlight">@color/terracotta_20</item>
+        <item name="android:fontFamily">@font/jakarta</item>
+        <item name="fontFamily">@font/jakarta</item>
+    </style>
+
+    <!-- Tarif detayı (HTML'deki modal): tam ekran, şeffaf pencere, karartmayı layout veriyor -->
+    <style name="Theme.PantryChef.RecipeDialog" parent="Theme.PantryChef">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+    </style>
+
+    <!-- Ortak metin stilleri -->
+    <style name="Text.Serif" parent="">
+        <item name="android:fontFamily">@font/playfair_display_bold</item>
+        <item name="android:textColor">@color/charcoal</item>
+    </style>
+    <style name="Text.Eyebrow" parent="">
+        <item name="android:fontFamily">@font/plus_jakarta_sans_bold</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing">0.05</item>
+        <item name="android:textColor">@color/sage</item>
+    </style>
+</resources>

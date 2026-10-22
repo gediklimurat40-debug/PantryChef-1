@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PantryChef</string>
+
+    <!-- Font Awesome 6 glifleri (font/fa_solid.ttf, font/fa_regular.ttf) -->
+    <string name="fa_utensils" translatable="false">&#xf2e7;</string>
+    <string name="fa_cookie_bite" translatable="false">&#xf564;</string>
+    <string name="fa_book_open" translatable="false">&#xf518;</string>
+    <string name="fa_plus" translatable="false">&#x2b;</string>
+    <string name="fa_rotate_left" translatable="false">&#xf2ea;</string>
+    <string name="fa_magnifying_glass" translatable="false">&#xf002;</string>
+    <string name="fa_xmark" translatable="false">&#xf00d;</string>
+    <string name="fa_clock" translatable="false">&#xf017;</string>
+    <string name="fa_fire" translatable="false">&#xf06d;</string>
+    <string name="fa_arrow_right" translatable="false">&#xf061;</string>
+    <string name="fa_check" translatable="false">&#xf00c;</string>
+    <string name="fa_basket" translatable="false">&#xf291;</string>
+    <string name="fa_list_check" translatable="false">&#xf0ae;</string>
+    <string name="fa_chevron_down" translatable="false">&#xf078;</string>
+
+    <!-- Header -->
+    <string name="brand_pantry">Pantry</string>
+    <string name="brand_chef">Chef</string>
+    <string name="brand_tagline">Kitchen Assistant</string>
+    <string name="tab_matcher">Pantry Matcher</string>
+    <string name="tab_explorer">Recipe Explorer</string>
+
+    <!-- Pantry Matcher -->
+    <string name="hero_badge">Smart Recipe Engine</string>
+    <string name="hero_title">What ingredients do you have in your kitchen today?</string>
+    <string name="hero_body">Select the ingredients available in your pantry, fridge, or spices. PantryChef will instantly calculate match percentages and show what delicious dishes you can make right now!</string>
+    <string name="custom_ingredient_hint">Type an ingredient &amp; hit Enter (e.g., Avocado, Garlic, Chicken)...</string>
+    <string name="add_to_pantry">Add to Pantry</string>
+    <string name="popular_staples">Popular Pantry Staples (Click to Toggle)</string>
+    <string name="reset_pantry">Reset Pantry</string>
+    <string name="suggested_matches">Suggested Recipe Matches</string>
+    <string name="matcher_count_initial">Select ingredients above to generate personalized recipe matches.</string>
+    <string name="matcher_count">Showing %1$d recipe matches based on your %2$d pantry items.</string>
+    <string name="show_label">Show:</string>
+    <string name="filter_all" formatted="false">All Recipes (Sorted by % Match)</string>
+    <string name="filter_exact" formatted="false">100% Ready to Cook</string>
+    <string name="filter_high" formatted="false">High Match (75%+)</string>
+    <string name="no_matches_title">No recipe matches found</string>
+    <string name="no_matches_body">Try selecting more ingredients in your kitchen pantry!</string>
+    <string name="match_badge">%1$d%% Match</string>
+    <string name="you_have">You have &lt;b>%1$d&lt;/b> of &lt;b>%2$d&lt;/b> ingredients.</string>
+    <string name="view_full_recipe">View Full Recipe</string>
+
+    <!-- Recipe Explorer -->
+    <string name="explorer_search_hint">Search recipes by name, ingredient, tag...</string>
+    <string name="explorer_count_initial">Showing all recipes</string>
+    <string name="explorer_count">Showing %1$d recipes</string>
+    <string name="no_search_title">No recipes matched your search</string>
+    <string name="no_search_body">Try typing another recipe title or ingredient.</string>
+
+    <!-- Modal -->
+    <string name="stat_time">Time</string>
+    <string name="stat_calories">Calories</string>
+    <string name="stat_protein">Protein</string>
+    <string name="stat_carbs_fat">Carbs / Fat</string>
+    <string name="required_ingredients">Required Ingredients</string>
+    <string name="step_by_step">Step-by-Step Instructions</string>
+    <string name="in_pantry">In Pantry</string>
+    <string name="close">Close</string>
+    <string name="load_error">Tarifler yüklenirken hata oluştu: %1$s</string>
+</resources>

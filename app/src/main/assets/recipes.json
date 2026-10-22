@@ -1,0 +1,1615 @@
+[
+  {
+    "id": 1,
+    "title": "Classic Spaghetti Carbonara",
+    "category": "Dinner",
+    "tags": ["Quick & Easy"],
+    "prepTime": "20 mins",
+    "calories": 620,
+    "protein": "24g",
+    "carbs": "68g",
+    "fats": "28g",
+    "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Spaghetti",
+      "Eggs",
+      "Pancetta",
+      "Parmesan Cheese",
+      "Black Pepper",
+      "Salt"
+    ],
+    "quantities": [
+      "400g Spaghetti",
+      "4 Large Eggs",
+      "150g Pancetta/Guanciale",
+      "100g Pecorino/Parmesan",
+      "1 tsp Cracked Pepper",
+      "Pinch of Salt"
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to boil and cook pasta until al dente.",
+      "In a bowl, whisk eggs with finely grated cheese and black pepper until smooth.",
+      "Crisp the pancetta in a skillet over medium heat until golden and crispy.",
+      "Drain pasta reserving 1/2 cup pasta water. Add pasta to skillet with pancetta.",
+      "Remove from heat, pour in egg mixture while vigorously tossing. Add splash of pasta water for silky sauce."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Avocado & Egg Breakfast Toast",
+    "category": "Breakfast",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "10 mins",
+    "calories": 340,
+    "protein": "14g",
+    "carbs": "28g",
+    "fats": "20g",
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Bread",
+      "Avocado",
+      "Eggs",
+      "Olive Oil",
+      "Red Pepper Flakes",
+      "Lemon",
+      "Salt"
+    ],
+    "quantities": [
+      "2 slices Whole Wheat Bread",
+      "1 Ripe Avocado",
+      "2 Eggs",
+      "1 tbsp Olive Oil",
+      "Pinch Red Pepper Flakes",
+      "1/2 Lemon",
+      "Salt & Pepper"
+    ],
+    "instructions": [
+      "Toast the bread slices to desired crispness.",
+      "Mash avocado in a bowl with lemon juice, salt, and pepper.",
+      "Fry or poach eggs in a pan with a drop of olive oil.",
+      "Spread mashed avocado over toast and top with cooked eggs and chili flakes."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Creamy Tomato Basil Soup",
+    "category": "Lunch",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "25 mins",
+    "calories": 290,
+    "protein": "6g",
+    "carbs": "24g",
+    "fats": "18g",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Tomatoes",
+      "Garlic",
+      "Onion",
+      "Heavy Cream",
+      "Vegetable Broth",
+      "Basil",
+      "Butter",
+      "Olive Oil"
+    ],
+    "quantities": [
+      "800g Canned Whole Tomatoes",
+      "3 Garlic cloves",
+      "1 Chopped Onion",
+      "1/2 cup Heavy Cream",
+      "2 cups Vegetable Broth",
+      "Handful fresh Basil",
+      "1 tbsp Butter"
+    ],
+    "instructions": [
+      "Sauté onions and minced garlic in butter and olive oil until soft.",
+      "Add tomatoes and vegetable broth. Simmer for 15 minutes.",
+      "Blend with fresh basil using an immersion blender until completely smooth.",
+      "Stir in heavy cream and season with salt and black pepper."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Chicken Stir-Fry with Vegetables",
+    "category": "Dinner",
+    "tags": ["Quick & Easy"],
+    "prepTime": "20 mins",
+    "calories": 450,
+    "protein": "38g",
+    "carbs": "32g",
+    "fats": "14g",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Chicken Breast",
+      "Bell Pepper",
+      "Broccoli",
+      "Soy Sauce",
+      "Garlic",
+      "Ginger",
+      "Sesame Oil",
+      "Rice"
+    ],
+    "quantities": [
+      "400g Chicken Breast (sliced)",
+      "1 Bell Pepper",
+      "1 cup Broccoli florets",
+      "3 tbsp Soy Sauce",
+      "2 Garlic cloves",
+      "1 tsp Ginger",
+      "1 tbsp Sesame Oil"
+    ],
+    "instructions": [
+      "Heat sesame oil in a wok or large skillet over high heat.",
+      "Sauté chicken pieces until cooked through and golden.",
+      "Add garlic, ginger, broccoli, and sliced bell pepper; stir-fry for 4-5 minutes.",
+      "Pour in soy sauce, stir well, and serve over hot rice."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Berry & Greek Yogurt Parfait",
+    "category": "Breakfast",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "5 mins",
+    "calories": 260,
+    "protein": "18g",
+    "carbs": "36g",
+    "fats": "4g",
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Greek Yogurt",
+      "Strawberries",
+      "Blueberries",
+      "Honey",
+      "Granola"
+    ],
+    "quantities": [
+      "1 cup Plain Greek Yogurt",
+      "1/2 cup Strawberries",
+      "1/2 cup Blueberries",
+      "1.5 tbsp Honey",
+      "1/3 cup Granola"
+    ],
+    "instructions": [
+      "Spoon half of the Greek yogurt into a glass or bowl.",
+      "Layer with half of the fresh berries and granola.",
+      "Repeat layers with remaining yogurt, berries, and granola.",
+      "Drizzle honey on top and enjoy immediately."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Fluffy Pancakes with Maple Syrup",
+    "category": "Breakfast",
+    "tags": ["Vegetarian"],
+    "prepTime": "20 mins",
+    "calories": 480,
+    "protein": "10g",
+    "carbs": "82g",
+    "fats": "12g",
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Eggs",
+      "Butter",
+      "Sugar",
+      "Baking Powder",
+      "Maple Syrup"
+    ],
+    "quantities": [
+      "1.5 cups Flour",
+      "1.25 cups Milk",
+      "1 Egg",
+      "3 tbsp Melted Butter",
+      "2 tbsp Sugar",
+      "2 tsp Baking Powder",
+      "Maple Syrup"
+    ],
+    "instructions": [
+      "Whisk together flour, sugar, and baking powder in a large bowl.",
+      "In another bowl, mix milk, egg, and melted butter.",
+      "Combine wet and dry ingredients gently until just mixed.",
+      "Pour batter onto a hot greased griddle, cook until bubbles pop, flip and cook until golden."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Greek Salad with Feta & Olives",
+    "category": "Lunch",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "12 mins",
+    "calories": 320,
+    "protein": "9g",
+    "carbs": "14g",
+    "fats": "26g",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Cucumber",
+      "Tomatoes",
+      "Red Onion",
+      "Feta Cheese",
+      "Olives",
+      "Olive Oil",
+      "Oregano"
+    ],
+    "quantities": [
+      "1 Cucumber",
+      "3 ripe Tomatoes",
+      "1/2 Red Onion",
+      "150g Feta Cheese block",
+      "100g Kalamata Olives",
+      "3 tbsp Extra Virgin Olive Oil",
+      "1 tsp dried Oregano"
+    ],
+    "instructions": [
+      "Chop cucumbers, tomatoes, and red onion into chunky bites.",
+      "Place veggies in a bowl, top with Kalamata olives and a block of feta cheese.",
+      "Drizzle generously with olive oil and sprinkle dried oregano."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Chocolate Lava Cake",
+    "category": "Dessert",
+    "tags": ["Vegetarian"],
+    "prepTime": "25 mins",
+    "calories": 510,
+    "protein": "7g",
+    "carbs": "52g",
+    "fats": "31g",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Dark Chocolate", "Butter", "Eggs", "Sugar", "Flour"],
+    "quantities": [
+      "150g Dark Chocolate",
+      "100g Butter",
+      "2 Eggs + 2 Yolks",
+      "1/2 cup Sugar",
+      "3 tbsp Flour"
+    ],
+    "instructions": [
+      "Melt dark chocolate and butter together until smooth.",
+      "Whisk eggs, egg yolks, and sugar until pale and thick.",
+      "Fold chocolate mixture and flour into eggs gently.",
+      "Pour into ramekins and bake at 200°C (400°F) for 12 minutes until edges are firm but center jiggles."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Garlic Butter Shrimp Pasta",
+    "category": "Dinner",
+    "tags": ["Quick & Easy"],
+    "prepTime": "20 mins",
+    "calories": 540,
+    "protein": "32g",
+    "carbs": "58g",
+    "fats": "20g",
+    "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Shrimp",
+      "Spaghetti",
+      "Garlic",
+      "Butter",
+      "Lemon",
+      "Parsley",
+      "Olive Oil"
+    ],
+    "quantities": [
+      "300g Raw Shrimp",
+      "250g Linguine/Spaghetti",
+      "5 Garlic cloves",
+      "3 tbsp Butter",
+      "1 Lemon juice",
+      "Fresh Parsley"
+    ],
+    "instructions": [
+      "Boil pasta in salted water until al dente.",
+      "Sauté minced garlic in butter and olive oil until fragrant.",
+      "Add shrimp and cook 2 minutes per side until pink.",
+      "Toss pasta, lemon juice, and chopped parsley into the pan and serve."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Caprese Salad Skewers",
+    "category": "Lunch",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "10 mins",
+    "calories": 210,
+    "protein": "10g",
+    "carbs": "6g",
+    "fats": "16g",
+    "image": "https://images.unsplash.com/photo-1592417817098-8f3d6eb23659?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Mozzarella",
+      "Cherry Tomatoes",
+      "Basil",
+      "Balsamic Vinegar",
+      "Olive Oil"
+    ],
+    "quantities": [
+      "200g Fresh Mozzarella Balls",
+      "200g Cherry Tomatoes",
+      "Fresh Basil Leaves",
+      "2 tbsp Balsamic Glaze",
+      "1 tbsp Olive Oil"
+    ],
+    "instructions": [
+      "Thread a cherry tomato, basil leaf, and mozzarella ball onto wooden skewers.",
+      "Arrange on a serving plate.",
+      "Drizzle with balsamic glaze and extra virgin olive oil before serving."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Classic Beef Burger",
+    "category": "Dinner",
+    "tags": [],
+    "prepTime": "25 mins",
+    "calories": 680,
+    "protein": "42g",
+    "carbs": "45g",
+    "fats": "36g",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Ground Beef",
+      "Burger Buns",
+      "Cheddar Cheese",
+      "Lettuce",
+      "Tomatoes",
+      "Onion",
+      "Mayonnaise"
+    ],
+    "quantities": [
+      "400g Ground Beef (80/20)",
+      "2 Burger Buns",
+      "2 Cheddar Cheese slices",
+      "Lettuce",
+      "1 Tomato",
+      "Mayonnaise"
+    ],
+    "instructions": [
+      "Form beef into 2 thick patties, seasoning generously with salt and pepper.",
+      "Sear patties on a hot grill or iron skillet for 4 minutes per side.",
+      "Melt cheese on patties during last minute of cooking.",
+      "Assemble toasted buns with mayo, lettuce, tomato slices, and beef patties."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Creamy Mushroom Risotto",
+    "category": "Dinner",
+    "tags": ["Vegetarian"],
+    "prepTime": "35 mins",
+    "calories": 490,
+    "protein": "12g",
+    "carbs": "65g",
+    "fats": "18g",
+    "image": "https://images.unsplash.com/photo-1633964913295-ceb43826e7c9?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Arborio Rice",
+      "Mushrooms",
+      "Parmesan Cheese",
+      "Vegetable Broth",
+      "Butter",
+      "Onion",
+      "Garlic"
+    ],
+    "quantities": [
+      "1.5 cups Arborio Rice",
+      "250g Mushrooms",
+      "1/2 cup Parmesan",
+      "4 cups warm Broth",
+      "2 tbsp Butter",
+      "1 Onion",
+      "2 Garlic cloves"
+    ],
+    "instructions": [
+      "Sauté sliced mushrooms in butter until golden, then set aside.",
+      "In same pan, sauté finely chopped onion and garlic.",
+      "Add Arborio rice and toast for 2 minutes.",
+      "Gradually add warm broth one ladle at a time, stirring constantly until absorbed.",
+      "Fold in mushrooms, remaining butter, and grated parmesan."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Banana Oatmeal Smoothie Bowl",
+    "category": "Breakfast",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "5 mins",
+    "calories": 310,
+    "protein": "11g",
+    "carbs": "58g",
+    "fats": "6g",
+    "image": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Banana",
+      "Oats",
+      "Milk",
+      "Honey",
+      "Chia Seeds",
+      "Peanut Butter"
+    ],
+    "quantities": [
+      "2 Frozen Bananas",
+      "1/2 cup Rolled Oats",
+      "1/2 cup Almond Milk",
+      "1 tbsp Peanut Butter",
+      "1 tsp Chia Seeds"
+    ],
+    "instructions": [
+      "Blend frozen bananas, oats, milk, and peanut butter until thick and creamy.",
+      "Pour into a bowl.",
+      "Top with fresh sliced fruits and chia seeds."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Chicken Caesar Wrap",
+    "category": "Lunch",
+    "tags": ["Quick & Easy"],
+    "prepTime": "15 mins",
+    "calories": 520,
+    "protein": "35g",
+    "carbs": "38g",
+    "fats": "24g",
+    "image": "https://images.unsplash.com/photo-1509722747041-616f39b57569?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Chicken Breast",
+      "Tortilla Wrap",
+      "Romaine Lettuce",
+      "Parmesan Cheese",
+      "Caesar Dressing",
+      "Croutons"
+    ],
+    "quantities": [
+      "200g Cooked Chicken Breast",
+      "2 Large Tortilla Wraps",
+      "2 cups Romaine Lettuce",
+      "1/4 cup Parmesan",
+      "3 tbsp Caesar Dressing"
+    ],
+    "instructions": [
+      "Slice pre-cooked or grilled chicken breast.",
+      "In a bowl, toss lettuce with Caesar dressing and parmesan cheese.",
+      "Lay tortilla flat, fill with salad mixture and chicken slices.",
+      "Wrap tightly and slice diagonally."
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Classic French Toast",
+    "category": "Breakfast",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "15 mins",
+    "calories": 380,
+    "protein": "12g",
+    "carbs": "46g",
+    "fats": "16g",
+    "image": "https://images.unsplash.com/photo-1484723091479-001591970221?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Bread",
+      "Eggs",
+      "Milk",
+      "Cinnamon",
+      "Butter",
+      "Maple Syrup"
+    ],
+    "quantities": [
+      "4 Thick Bread slices",
+      "2 Eggs",
+      "1/3 cup Milk",
+      "1 tsp Cinnamon",
+      "2 tbsp Butter",
+      "Maple Syrup"
+    ],
+    "instructions": [
+      "Whisk eggs, milk, ground cinnamon, and vanilla in a shallow bowl.",
+      "Dip bread slices into egg mixture, letting them soak for 10 seconds per side.",
+      "Fry in melted butter over medium heat until golden brown on both sides."
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Apple Cinnamon Crisp",
+    "category": "Dessert",
+    "tags": ["Vegetarian"],
+    "prepTime": "40 mins",
+    "calories": 380,
+    "protein": "4g",
+    "carbs": "62g",
+    "fats": "15g",
+    "image": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Apples",
+      "Oats",
+      "Flour",
+      "Brown Sugar",
+      "Butter",
+      "Cinnamon"
+    ],
+    "quantities": [
+      "4 sliced Apples",
+      "1 cup Rolled Oats",
+      "1/2 cup Flour",
+      "1/2 cup Brown Sugar",
+      "1/3 cup Butter",
+      "2 tsp Cinnamon"
+    ],
+    "instructions": [
+      "Toss peeled, sliced apples with cinnamon and place in baking dish.",
+      "Mix oats, flour, brown sugar, and cold butter until crumbly.",
+      "Scatter crumble topping over apples and bake at 180°C (350°F) for 35 minutes until bubbly."
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Spinach & Feta Stuffed Chicken Breast",
+    "category": "Dinner",
+    "tags": [],
+    "prepTime": "30 mins",
+    "calories": 420,
+    "protein": "46g",
+    "carbs": "4g",
+    "fats": "24g",
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Chicken Breast",
+      "Spinach",
+      "Feta Cheese",
+      "Garlic",
+      "Olive Oil"
+    ],
+    "quantities": [
+      "2 Chicken Breasts",
+      "2 cups Fresh Spinach",
+      "100g Feta Cheese",
+      "2 Garlic cloves",
+      "2 tbsp Olive Oil"
+    ],
+    "instructions": [
+      "Sauté spinach and minced garlic until wilted, then mix with crumbled feta.",
+      "Cut a pocket horizontally into each chicken breast.",
+      "Stuff chicken pockets with spinach mixture and secure with toothpicks.",
+      "Sear in an oven-proof pan and finish baking at 190°C for 20 minutes."
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Avocado Egg Salad",
+    "category": "Lunch",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "10 mins",
+    "calories": 280,
+    "protein": "12g",
+    "carbs": "8g",
+    "fats": "22g",
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Eggs",
+      "Avocado",
+      "Lemon",
+      "Dijon Mustard",
+      "Chives",
+      "Salt"
+    ],
+    "quantities": [
+      "4 Hard-Boiled Eggs",
+      "1 Ripe Avocado",
+      "1 tbsp Lemon juice",
+      "1 tsp Dijon Mustard",
+      "Fresh Chives"
+    ],
+    "instructions": [
+      "Chop hard-boiled eggs and place in a mixing bowl.",
+      "Mash avocado with lemon juice and Dijon mustard.",
+      "Combine gently with eggs, sprinkle with fresh chives, salt, and black pepper."
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Pesto Pasta with Cherry Tomatoes",
+    "category": "Dinner",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "15 mins",
+    "calories": 460,
+    "protein": "11g",
+    "carbs": "54g",
+    "fats": "22g",
+    "image": "https://images.unsplash.com/photo-1598866594230-a7c12756260f?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Penne Pasta",
+      "Pesto",
+      "Cherry Tomatoes",
+      "Parmesan Cheese",
+      "Pine Nuts",
+      "Olive Oil"
+    ],
+    "quantities": [
+      "300g Penne",
+      "1/2 cup Basil Pesto",
+      "1 cup halved Cherry Tomatoes",
+      "1/4 cup Parmesan",
+      "2 tbsp Pine Nuts"
+    ],
+    "instructions": [
+      "Cook penne pasta in salted water until al dente.",
+      "Drain pasta and toss immediately with basil pesto.",
+      "Fold in halved cherry tomatoes and sprinkle with parmesan and toasted pine nuts."
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Fudgy Chocolate Brownies",
+    "category": "Dessert",
+    "tags": ["Vegetarian"],
+    "prepTime": "35 mins",
+    "calories": 410,
+    "protein": "5g",
+    "carbs": "50g",
+    "fats": "22g",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Butter",
+      "Dark Chocolate",
+      "Sugar",
+      "Eggs",
+      "Flour",
+      "Cocoa Powder"
+    ],
+    "quantities": [
+      "150g Unsalted Butter",
+      "200g Dark Chocolate",
+      "1 cup Sugar",
+      "3 Eggs",
+      "1/2 cup Flour",
+      "1/4 cup Cocoa Powder"
+    ],
+    "instructions": [
+      "Melt butter and dark chocolate together over hot water.",
+      "Whisk sugar and eggs vigorously until thick and glossy.",
+      "Fold in chocolate mixture and sifted flour/cocoa powder.",
+      "Pour into lined tin and bake at 175°C for 22-25 minutes."
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Shakshuka (Poached Eggs in Tomato Sauce)",
+    "category": "Breakfast",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "25 mins",
+    "calories": 330,
+    "protein": "16g",
+    "carbs": "20g",
+    "fats": "21g",
+    "image": "https://images.unsplash.com/photo-1590412200988-a436970781fa?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Eggs",
+      "Tomatoes",
+      "Bell Pepper",
+      "Onion",
+      "Garlic",
+      "Cumin",
+      "Paprika",
+      "Olive Oil"
+    ],
+    "quantities": [
+      "4 Eggs",
+      "1 Canned Diced Tomatoes",
+      "1 Bell Pepper",
+      "1 Onion",
+      "2 Garlic cloves",
+      "1 tsp Cumin",
+      "1 tsp Paprika"
+    ],
+    "instructions": [
+      "Sauté chopped onions and bell pepper in olive oil until soft.",
+      "Add garlic, cumin, paprika, and diced tomatoes; simmer for 10 minutes.",
+      "Make 4 small wells in the sauce and crack an egg into each.",
+      "Cover and cook on low heat for 5-8 minutes until whites are set."
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Teriyaki Salmon Rice Bowl",
+    "category": "Dinner",
+    "tags": ["Quick & Easy"],
+    "prepTime": "20 mins",
+    "calories": 580,
+    "protein": "36g",
+    "carbs": "52g",
+    "fats": "24g",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Salmon",
+      "Soy Sauce",
+      "Honey",
+      "Garlic",
+      "Rice",
+      "Cucumber",
+      "Sesame Seeds"
+    ],
+    "quantities": [
+      "2 Salmon Fillets",
+      "3 tbsp Soy Sauce",
+      "2 tbsp Honey",
+      "1 Garlic clove",
+      "1 cup Cooked Rice",
+      "Sliced Cucumber"
+    ],
+    "instructions": [
+      "Whisk soy sauce, honey, and garlic to make teriyaki marinade.",
+      "Pan-sear salmon fillets for 4 minutes per side until flaky.",
+      "Pour teriyaki sauce over salmon in pan to glaze.",
+      "Serve over steaming jasmine rice with sliced cucumbers."
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Classic Guacamole & Chips",
+    "category": "Lunch",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "10 mins",
+    "calories": 320,
+    "protein": "4g",
+    "carbs": "28g",
+    "fats": "22g",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Avocado",
+      "Lime",
+      "Onion",
+      "Cilantro",
+      "Tomatoes",
+      "Tortilla Chips",
+      "Salt"
+    ],
+    "quantities": [
+      "3 Ripe Avocados",
+      "1 Lime juice",
+      "1/2 finely diced Red Onion",
+      "Handful Fresh Cilantro",
+      "1 diced Tomato",
+      "Tortilla Chips"
+    ],
+    "instructions": [
+      "Halve and pit avocados, then scoop flesh into a bowl.",
+      "Mash coarsely with lime juice and salt.",
+      "Fold in diced red onion, tomatoes, and chopped fresh cilantro.",
+      "Serve alongside crunchy tortilla chips."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Crispy Garlic Baked Potato Wedges",
+    "category": "Lunch",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "35 mins",
+    "calories": 270,
+    "protein": "5g",
+    "carbs": "42g",
+    "fats": "10g",
+    "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Potatoes",
+      "Olive Oil",
+      "Garlic Powder",
+      "Paprika",
+      "Parmesan Cheese",
+      "Parsley"
+    ],
+    "quantities": [
+      "4 Russet Potatoes",
+      "3 tbsp Olive Oil",
+      "1 tsp Garlic Powder",
+      "1 tsp Paprika",
+      "1/3 cup grated Parmesan"
+    ],
+    "instructions": [
+      "Cut potatoes into thick wedge shapes.",
+      "Toss with olive oil, garlic powder, paprika, salt, and parmesan cheese.",
+      "Arrange single layer on baking tray and bake at 210°C (410°F) for 30 minutes until golden."
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Honey Lemon Garlic Chicken Thighs",
+    "category": "Dinner",
+    "tags": ["Quick & Easy"],
+    "prepTime": "25 mins",
+    "calories": 490,
+    "protein": "34g",
+    "carbs": "18g",
+    "fats": "30g",
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Chicken Thighs",
+      "Honey",
+      "Lemon",
+      "Garlic",
+      "Soy Sauce",
+      "Butter"
+    ],
+    "quantities": [
+      "4 Bone-in Chicken Thighs",
+      "3 tbsp Honey",
+      "1 Lemon juice",
+      "4 Garlic cloves",
+      "2 tbsp Soy Sauce",
+      "1 tbsp Butter"
+    ],
+    "instructions": [
+      "Sear chicken thighs skin-side down in a hot skillet until crispy and golden.",
+      "Whisk honey, lemon juice, garlic, and soy sauce.",
+      "Flip chicken, pour sauce into skillet, and simmer for 12 minutes until reduced and sticky."
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Fresh Strawberry Milkshake",
+    "category": "Dessert",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "5 mins",
+    "calories": 310,
+    "protein": "6g",
+    "carbs": "42g",
+    "fats": "14g",
+    "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Strawberries", "Vanilla Ice Cream", "Milk", "Sugar"],
+    "quantities": [
+      "1.5 cups Fresh Strawberries",
+      "3 scoops Vanilla Ice Cream",
+      "1/2 cup Milk",
+      "1 tbsp Sugar"
+    ],
+    "instructions": [
+      "Place hulled strawberries, vanilla ice cream, and cold milk in blender.",
+      "Blend on high speed until thick and creamy.",
+      "Pour into tall glass and garnish with fresh strawberry slice."
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Vegetable Fried Rice",
+    "category": "Lunch",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "15 mins",
+    "calories": 360,
+    "protein": "10g",
+    "carbs": "58g",
+    "fats": "10g",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Rice",
+      "Eggs",
+      "Peas",
+      "Carrots",
+      "Soy Sauce",
+      "Sesame Oil",
+      "Green Onion"
+    ],
+    "quantities": [
+      "3 cups Day-old Cooked Rice",
+      "2 Eggs",
+      "1/2 cup Frozen Peas & Carrots",
+      "3 tbsp Soy Sauce",
+      "1 tbsp Sesame Oil"
+    ],
+    "instructions": [
+      "Scramble eggs in hot wok and set aside.",
+      "Sauté peas and carrots until tender.",
+      "Add cooked rice, soy sauce, and sesame oil; stir-fry on high heat for 3 minutes.",
+      "Mix scrambled eggs back in and garnish with sliced green onion."
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Classic Cheesy Omelette",
+    "category": "Breakfast",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "8 mins",
+    "calories": 320,
+    "protein": "20g",
+    "carbs": "2g",
+    "fats": "26g",
+    "image": "https://images.unsplash.com/photo-1510693206972-df098062cb71?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Eggs", "Cheddar Cheese", "Butter", "Chives", "Salt"],
+    "quantities": [
+      "3 Eggs",
+      "1/2 cup Shredded Cheddar",
+      "1 tbsp Butter",
+      "Chopped Chives",
+      "Salt & Pepper"
+    ],
+    "instructions": [
+      "Whisk eggs thoroughly with salt and pepper.",
+      "Melt butter in non-stick pan over medium-low heat.",
+      "Pour egg mixture and gently push cooked edges inward.",
+      "Sprinkle cheese over half, fold omelette over, and serve warm."
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Mediterranean Hummus & Pita Plate",
+    "category": "Lunch",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "10 mins",
+    "calories": 390,
+    "protein": "12g",
+    "carbs": "52g",
+    "fats": "16g",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Chickpeas",
+      "Tahini",
+      "Garlic",
+      "Lemon",
+      "Olive Oil",
+      "Pita Bread",
+      "Cucumber"
+    ],
+    "quantities": [
+      "1 Can Chickpeas",
+      "2 tbsp Tahini",
+      "1 Garlic clove",
+      "1 Lemon juice",
+      "2 tbsp Olive Oil",
+      "2 Warm Pita Breads"
+    ],
+    "instructions": [
+      "Blend chickpeas, tahini, garlic, lemon juice, and olive oil until smooth.",
+      "Spread hummus into a bowl and swirl with olive oil.",
+      "Serve with sliced pita bread and cucumber sticks."
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Creamy Garlic Parmesan Chicken",
+    "category": "Dinner",
+    "tags": [],
+    "prepTime": "25 mins",
+    "calories": 560,
+    "protein": "44g",
+    "carbs": "6g",
+    "fats": "40g",
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Chicken Breast",
+      "Garlic",
+      "Heavy Cream",
+      "Parmesan Cheese",
+      "Spinach",
+      "Butter",
+      "Olive Oil"
+    ],
+    "quantities": [
+      "2 Chicken Breasts",
+      "4 Garlic cloves",
+      "3/4 cup Heavy Cream",
+      "1/2 cup Parmesan",
+      "2 cups Fresh Spinach",
+      "1 tbsp Butter"
+    ],
+    "instructions": [
+      "Pan-fry chicken breasts until golden brown on both sides.",
+      "In same pan, sauté garlic in butter for 1 minute.",
+      "Pour in heavy cream and bring to simmer, then stir in parmesan and spinach.",
+      "Return chicken to sauce and simmer for 5 minutes until creamy."
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Homemade Chocolate Chip Cookies",
+    "category": "Dessert",
+    "tags": ["Vegetarian"],
+    "prepTime": "25 mins",
+    "calories": 220,
+    "protein": "3g",
+    "carbs": "30g",
+    "fats": "11g",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Butter",
+      "Sugar",
+      "Brown Sugar",
+      "Eggs",
+      "Flour",
+      "Chocolate Chips",
+      "Baking Soda"
+    ],
+    "quantities": [
+      "1/2 cup Butter",
+      "1/2 cup White Sugar",
+      "1/2 cup Brown Sugar",
+      "1 Egg",
+      "1.5 cups Flour",
+      "1 cup Chocolate Chips"
+    ],
+    "instructions": [
+      "Cream melted butter with white and brown sugars.",
+      "Beat in egg, then stir in flour and baking soda.",
+      "Fold in semi-sweet chocolate chips.",
+      "Scoop onto baking tray and bake at 180°C for 10-12 minutes."
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Avocado BLT Sandwich",
+    "category": "Lunch",
+    "tags": ["Quick & Easy"],
+    "prepTime": "12 mins",
+    "calories": 480,
+    "protein": "16g",
+    "carbs": "34g",
+    "fats": "32g",
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Bacon",
+      "Lettuce",
+      "Tomatoes",
+      "Bread",
+      "Avocado",
+      "Mayonnaise"
+    ],
+    "quantities": [
+      "4 Bacon strips",
+      "Romaine Lettuce",
+      "1 Tomato",
+      "2 Bread slices",
+      "1/2 Avocado",
+      "1 tbsp Mayonnaise"
+    ],
+    "instructions": [
+      "Fry bacon strips until crispy.",
+      "Toast bread and spread mayonnaise on inside surfaces.",
+      "Layer crispy bacon, sliced tomatoes, avocado, and lettuce leaves between bread."
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Lemon Herb Baked Salmon",
+    "category": "Dinner",
+    "tags": ["Quick & Easy"],
+    "prepTime": "20 mins",
+    "calories": 410,
+    "protein": "34g",
+    "carbs": "2g",
+    "fats": "28g",
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Salmon", "Lemon", "Garlic", "Butter", "Dill", "Olive Oil"],
+    "quantities": [
+      "2 Salmon Fillets",
+      "1 Lemon",
+      "3 Garlic cloves",
+      "2 tbsp Melted Butter",
+      "Fresh Dill",
+      "1 tbsp Olive Oil"
+    ],
+    "instructions": [
+      "Place salmon fillets on a foil-lined baking sheet.",
+      "Pour melted butter, minced garlic, and lemon juice over fillets.",
+      "Top with fresh dill and lemon slices.",
+      "Bake at 200°C (400°F) for 12-15 minutes until tender."
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Blueberry Oatmeal Bowl",
+    "category": "Breakfast",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "10 mins",
+    "calories": 290,
+    "protein": "8g",
+    "carbs": "52g",
+    "fats": "5g",
+    "image": "https://images.unsplash.com/photo-1517673400267-0251440c45dc?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Oats",
+      "Milk",
+      "Blueberries",
+      "Honey",
+      "Cinnamon",
+      "Walnuts"
+    ],
+    "quantities": [
+      "1/2 cup Oats",
+      "1 cup Milk",
+      "1/2 cup Fresh Blueberries",
+      "1 tbsp Honey",
+      "1/2 tsp Cinnamon"
+    ],
+    "instructions": [
+      "Simmer oats in milk for 5 minutes until soft and creamy.",
+      "Stir in cinnamon and honey.",
+      "Top with juicy fresh blueberries and crushed walnuts."
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Mushroom Swiss Burger",
+    "category": "Dinner",
+    "tags": [],
+    "prepTime": "25 mins",
+    "calories": 640,
+    "protein": "38g",
+    "carbs": "42g",
+    "fats": "35g",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Ground Beef",
+      "Mushrooms",
+      "Swiss Cheese",
+      "Burger Buns",
+      "Garlic",
+      "Butter"
+    ],
+    "quantities": [
+      "350g Ground Beef",
+      "1 cup Mushrooms",
+      "2 Swiss Cheese slices",
+      "2 Buns",
+      "1 Garlic clove",
+      "1 tbsp Butter"
+    ],
+    "instructions": [
+      "Sauté mushrooms in butter and garlic until golden brown.",
+      "Form beef patties and sear on hot pan for 4 mins each side.",
+      "Top patties with Swiss cheese and cooked mushrooms.",
+      "Assemble on toasted burger buns."
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Mango Coconut Smoothie",
+    "category": "Breakfast",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "5 mins",
+    "calories": 240,
+    "protein": "3g",
+    "carbs": "45g",
+    "fats": "7g",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Mango", "Coconut Milk", "Greek Yogurt", "Honey"],
+    "quantities": [
+      "1 cup Frozen Mango chunks",
+      "1/2 cup Coconut Milk",
+      "1/2 cup Greek Yogurt",
+      "1 tbsp Honey"
+    ],
+    "instructions": [
+      "Combine mango chunks, coconut milk, yogurt, and honey in a blender.",
+      "Blend until smooth and tropical.",
+      "Pour into glass and serve cold."
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Creamy Tuscan Sausage Pasta",
+    "category": "Dinner",
+    "tags": [],
+    "prepTime": "25 mins",
+    "calories": 670,
+    "protein": "28g",
+    "carbs": "62g",
+    "fats": "36g",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3def61632f1?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Penne Pasta",
+      "Italian Sausage",
+      "Heavy Cream",
+      "Spinach",
+      "Garlic",
+      "Parmesan Cheese"
+    ],
+    "quantities": [
+      "300g Penne",
+      "200g Italian Sausage",
+      "3/4 cup Heavy Cream",
+      "2 cups Spinach",
+      "2 Garlic cloves"
+    ],
+    "instructions": [
+      "Cook penne in boiling salted water.",
+      "Brown Italian sausage in pan, breaking into small pieces.",
+      "Add garlic, heavy cream, and spinach; simmer until spinach wilts.",
+      "Toss with cooked pasta and parmesan cheese."
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Caprese Grilled Cheese Sandwich",
+    "category": "Lunch",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "12 mins",
+    "calories": 430,
+    "protein": "18g",
+    "carbs": "36g",
+    "fats": "24g",
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Bread", "Mozzarella", "Tomatoes", "Pesto", "Butter"],
+    "quantities": [
+      "2 Bread slices",
+      "100g Mozzarella",
+      "1 Sliced Tomato",
+      "1 tbsp Pesto",
+      "1 tbsp Butter"
+    ],
+    "instructions": [
+      "Spread pesto on interior side of bread slices.",
+      "Layer mozzarella cheese and tomato slices.",
+      "Butter outside of sandwich and grill on skillet until golden brown and cheese melts."
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Cinnamon Sugar Churros",
+    "category": "Dessert",
+    "tags": ["Vegetarian"],
+    "prepTime": "30 mins",
+    "calories": 390,
+    "protein": "4g",
+    "carbs": "48g",
+    "fats": "20g",
+    "image": "https://images.unsplash.com/photo-1624371414361-e670ef4889d6?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Flour",
+      "Butter",
+      "Water",
+      "Eggs",
+      "Sugar",
+      "Cinnamon",
+      "Oil"
+    ],
+    "quantities": [
+      "1 cup Flour",
+      "2 tbsp Butter",
+      "1 cup Water",
+      "2 Eggs",
+      "1/2 cup Sugar",
+      "1 tbsp Cinnamon"
+    ],
+    "instructions": [
+      "Boil water with butter, then stir in flour until dough forms.",
+      "Beat in eggs until smooth, then pipe dough into hot oil.",
+      "Fry churros until golden brown, then drain and roll in cinnamon sugar."
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Garlic Butter Steak Bites",
+    "category": "Dinner",
+    "tags": ["Quick & Easy"],
+    "prepTime": "15 mins",
+    "calories": 520,
+    "protein": "42g",
+    "carbs": "2g",
+    "fats": "38g",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Steak", "Butter", "Garlic", "Parsley", "Olive Oil"],
+    "quantities": [
+      "400g Sirloin Steak (cubed)",
+      "3 tbsp Butter",
+      "4 Garlic cloves",
+      "Fresh Parsley",
+      "1 tbsp Olive Oil"
+    ],
+    "instructions": [
+      "Season steak cubes with salt and black pepper.",
+      "Sear steak in a hot skillet with olive oil for 3-4 minutes.",
+      "Add butter and garlic, tossing steak bites until coated and juicy.",
+      "Garnish with fresh parsley."
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Vanilla Chia Seed Pudding",
+    "category": "Breakfast",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "10 mins",
+    "calories": 210,
+    "protein": "7g",
+    "carbs": "22g",
+    "fats": "11g",
+    "image": "https://images.unsplash.com/photo-1590301157890-4810ed352733?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Chia Seeds",
+      "Milk",
+      "Honey",
+      "Vanilla Extract",
+      "Strawberries"
+    ],
+    "quantities": [
+      "3 tbsp Chia Seeds",
+      "1 cup Milk",
+      "1 tbsp Honey",
+      "1/2 tsp Vanilla Extract",
+      "Strawberries"
+    ],
+    "instructions": [
+      "Whisk chia seeds, milk, honey, and vanilla extract in a jar.",
+      "Let rest for 10 minutes, whisk again, then refrigerate for 2 hours.",
+      "Top with chopped fresh strawberries before serving."
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Chicken Fajita Skillet",
+    "category": "Dinner",
+    "tags": ["Quick & Easy"],
+    "prepTime": "20 mins",
+    "calories": 460,
+    "protein": "38g",
+    "carbs": "24g",
+    "fats": "22g",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Chicken Breast",
+      "Bell Pepper",
+      "Onion",
+      "Tortilla Wrap",
+      "Olive Oil",
+      "Cumin",
+      "Lime"
+    ],
+    "quantities": [
+      "350g Chicken Breast",
+      "2 Bell Peppers",
+      "1 Onion",
+      "Tortilla Wraps",
+      "2 tbsp Olive Oil",
+      "Lime"
+    ],
+    "instructions": [
+      "Slice chicken breast, peppers, and onions into strips.",
+      "Sauté chicken in oil with cumin, chili powder, and salt until cooked.",
+      "Add peppers and onions, cook until tender-crisp.",
+      "Serve wrapped in warm tortilla wraps with fresh lime juice."
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Classic Caesar Salad",
+    "category": "Lunch",
+    "tags": ["Quick & Easy"],
+    "prepTime": "10 mins",
+    "calories": 310,
+    "protein": "8g",
+    "carbs": "14g",
+    "fats": "25g",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Romaine Lettuce",
+      "Croutons",
+      "Parmesan Cheese",
+      "Caesar Dressing",
+      "Lemon"
+    ],
+    "quantities": [
+      "3 cups Romaine Lettuce",
+      "1 cup Croutons",
+      "1/3 cup shaved Parmesan",
+      "3 tbsp Caesar Dressing"
+    ],
+    "instructions": [
+      "Chop fresh romaine lettuce into bite-sized pieces.",
+      "Toss lettuce with Caesar dressing and fresh lemon juice.",
+      "Top generously with crunchy croutons and shaved parmesan cheese."
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Warm Apple Cinnamon Oatmeal",
+    "category": "Breakfast",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "10 mins",
+    "calories": 270,
+    "protein": "6g",
+    "carbs": "50g",
+    "fats": "5g",
+    "image": "https://images.unsplash.com/photo-1517673400267-0251440c45dc?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Oats",
+      "Apples",
+      "Milk",
+      "Cinnamon",
+      "Brown Sugar",
+      "Butter"
+    ],
+    "quantities": [
+      "1/2 cup Oats",
+      "1 diced Apple",
+      "1 cup Milk",
+      "1 tsp Cinnamon",
+      "1 tbsp Brown Sugar"
+    ],
+    "instructions": [
+      "Sauté diced apples in butter with cinnamon until soft.",
+      "Add oats and milk, cooking for 5 minutes.",
+      "Sweeten with brown sugar and serve warm."
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Lemon Blueberry Pancakes",
+    "category": "Breakfast",
+    "tags": ["Vegetarian"],
+    "prepTime": "20 mins",
+    "calories": 450,
+    "protein": "9g",
+    "carbs": "78g",
+    "fats": "11g",
+    "image": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Flour",
+      "Milk",
+      "Eggs",
+      "Blueberries",
+      "Lemon",
+      "Maple Syrup",
+      "Butter"
+    ],
+    "quantities": [
+      "1.5 cups Flour",
+      "1 cup Milk",
+      "1 Egg",
+      "1 cup Blueberries",
+      "1 Lemon zest",
+      "Maple Syrup"
+    ],
+    "instructions": [
+      "Mix pancake batter with lemon zest added.",
+      "Pour onto hot buttered skillet and scatter fresh blueberries on top.",
+      "Cook until golden brown on both sides and serve with maple syrup."
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Creamy Spinach & Artichoke Dip",
+    "category": "Lunch",
+    "tags": ["Vegetarian"],
+    "prepTime": "25 mins",
+    "calories": 380,
+    "protein": "12g",
+    "carbs": "16g",
+    "fats": "30g",
+    "image": "https://images.unsplash.com/photo-1541529086526-db283c563270?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Spinach",
+      "Cream Cheese",
+      "Mozzarella",
+      "Parmesan Cheese",
+      "Garlic",
+      "Tortilla Chips"
+    ],
+    "quantities": [
+      "2 cups Spinach",
+      "200g Cream Cheese",
+      "1 cup Mozzarella",
+      "1/2 cup Parmesan",
+      "2 Garlic cloves"
+    ],
+    "instructions": [
+      "Mix cream cheese, garlic, wilted spinach, mozzarella, and parmesan together.",
+      "Transfer to dish and bake at 190°C for 20 minutes until bubbly and golden.",
+      "Serve hot with tortilla chips."
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Sesame Peanut Noodles",
+    "category": "Lunch",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "15 mins",
+    "calories": 480,
+    "protein": "15g",
+    "carbs": "62g",
+    "fats": "20g",
+    "image": "https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Spaghetti",
+      "Peanut Butter",
+      "Soy Sauce",
+      "Sesame Oil",
+      "Honey",
+      "Garlic",
+      "Cucumber"
+    ],
+    "quantities": [
+      "250g Noodles/Spaghetti",
+      "3 tbsp Peanut Butter",
+      "2 tbsp Soy Sauce",
+      "1 tbsp Sesame Oil",
+      "1 tbsp Honey"
+    ],
+    "instructions": [
+      "Whisk peanut butter, soy sauce, sesame oil, honey, and garlic with warm water.",
+      "Toss boiled noodles into peanut sauce until coated.",
+      "Top with sliced cucumber and sesame seeds."
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Cheesy Garlic Breadsticks",
+    "category": "Lunch",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "18 mins",
+    "calories": 360,
+    "protein": "14g",
+    "carbs": "38g",
+    "fats": "17g",
+    "image": "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?auto=format&fit=crop&w=600&q=80",
+    "ingredients": ["Bread", "Butter", "Garlic", "Mozzarella", "Parsley"],
+    "quantities": [
+      "1 French Baguette",
+      "3 tbsp Softened Butter",
+      "3 Garlic cloves",
+      "1.5 cups Mozzarella"
+    ],
+    "instructions": [
+      "Mix softened butter with minced garlic and chopped parsley.",
+      "Slice baguette in half, spread garlic butter generously.",
+      "Top with shredded mozzarella cheese and bake at 200°C for 10 minutes until bubbly."
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Classic Chocolate Ice Cream Sundae",
+    "category": "Dessert",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "5 mins",
+    "calories": 340,
+    "protein": "5g",
+    "carbs": "46g",
+    "fats": "16g",
+    "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Vanilla Ice Cream",
+      "Chocolate Syrup",
+      "Heavy Cream",
+      "Strawberries"
+    ],
+    "quantities": [
+      "3 scoops Vanilla Ice Cream",
+      "3 tbsp Chocolate Syrup",
+      "Whipped Cream",
+      "Fresh Strawberries"
+    ],
+    "instructions": [
+      "Scoop vanilla ice cream into a glass sundae bowl.",
+      "Drizzle warm chocolate syrup on top.",
+      "Top with whipped heavy cream and a strawberry."
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Garlic Butter Mushroom Toast",
+    "category": "Breakfast",
+    "tags": ["Vegetarian", "Quick & Easy"],
+    "prepTime": "12 mins",
+    "calories": 290,
+    "protein": "8g",
+    "carbs": "26g",
+    "fats": "17g",
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&w=600&q=80",
+    "ingredients": [
+      "Bread",
+      "Mushrooms",
+      "Butter",
+      "Garlic",
+      "Parsley",
+      "Olive Oil"
+    ],
+    "quantities": [
+      "2 Bread slices",
+      "200g Mushrooms",
+      "2 tbsp Butter",
+      "2 Garlic cloves",
+      "Fresh Parsley"
+    ],
+    "instructions": [
+      "Sauté sliced mushrooms in butter and garlic until caramelised.",
+      "Toast bread until crisp.",
+      "Heap warm garlic mushrooms onto toast and sprinkle with fresh parsley."
+    ]
+  }
+]

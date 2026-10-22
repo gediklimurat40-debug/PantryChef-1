@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PantryChef marka renkleri (HTML'deki tailwind brand paleti) -->
+    <color name="terracotta">#C85A32</color>
+    <color name="terracotta_dark">#A34221</color>
+    <color name="terracotta_10">#1AC85A32</color>
+    <color name="terracotta_20">#33C85A32</color>
+    <color name="sage">#657864</color>
+    <color name="sage_light">#E8EFE8</color>
+    <color name="sage_40">#66657864</color>
+    <color name="cream">#FDFBF7</color>
+    <color name="cream_90">#E6FDFBF7</color>
+    <color name="sand">#F3ECE1</color>
+    <color name="sand_60">#99F3ECE1</color>
+    <color name="sand_50">#80F3ECE1</color>
+    <color name="sand_40">#66F3ECE1</color>
+    <color name="sand_30">#4DF3ECE1</color>
+    <color name="charcoal">#2D2825</color>
+    <color name="charcoal_90">#E62D2825</color>
+    <color name="charcoal_80">#CC2D2825</color>
+    <color name="charcoal_70">#B32D2825</color>
+    <color name="charcoal_60">#992D2825</color>
+    <color name="charcoal_50">#802D2825</color>
+    <color name="charcoal_40">#662D2825</color>
+    <color name="page_bg">#FFFEF9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="scrim">#99000000</color>
+    <color name="emerald_500">#10B981</color>
+    <color name="emerald_600">#059669</color>
+    <color name="amber_600">#D97706</color>
+</resources>

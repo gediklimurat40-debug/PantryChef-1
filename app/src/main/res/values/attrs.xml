@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaxHeightScrollView">
+        <attr name="pcMaxHeight" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="FlowLayout">
+        <attr name="pcHorizontalSpacing" format="dimension" />
+        <attr name="pcVerticalSpacing" format="dimension" />
+    </declare-styleable>
+</resources>
